@@ -70,9 +70,7 @@ class Password:
 
 
 
-ss = "bonjour"
-for c in ss:
-	print(c)
+
 
 input = open("input","r")
 lines = input.readlines()
